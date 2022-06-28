@@ -1,0 +1,135 @@
+.img-montania{
+    width: 100%;
+}
+
+body{
+    font-family: Verdana, Arial, sans-serif;
+    color: #775548;
+}
+
+h1{
+    font-size: 65px;
+}
+
+h2{
+    background-color: #775548;
+    color: #e1d4cf;
+}
+
+.links{
+    color: #ef6d24;
+    font-weight: bold;
+}
+
+.camping{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.link-lanacion:link{
+    color: #3aabc4;
+    font-weight: bold;
+}
+
+.link-pagina12:link{
+    color: #ef4b51;
+    font-weight: bold;
+}
+
+.link-pag-principal{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.habitaciones{
+    width: 45%;
+}
+
+.contenedor-direccion{
+    font-size: 50px;
+    background-color: #F4DFBA;
+    color: #775548;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.contenedor-habitaciones{
+    padding: 30px;
+}
+
+.cupones{
+    margin-bottom: 200px;
+    border: 3px solid #775548;
+    text-align: center;
+}
+
+.precios-hab{
+    font-size: 30px;
+}
+
+.imagenes-contacto{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto; 
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding: 50px;
+    justify-content: space-between;
+}
+
+.contactos{
+    margin-right: 100px;
+    margin-left: 100px;
+    width: auto;
+}
+
+.tarifas{
+    line-height: 45px;
+    font-size: 20px;
+    margin: 100px;
+}
+
+.carpas{
+    border: 15px solid #775548;
+    border-radius: 15px;
+    background-color: rgb(247, 136, 95);
+    color: beige;
+}
+
+.tabla-horarios{
+    border: 5px solid #775548;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    text-align: center;
+}
+
+.bicicleta{
+    float: left;
+    margin-right: 20px;
+}
+
+.parrafo-bicicletas{
+    text-align: justify;
+}
+
+.carpa-canadiense{
+    float: left;
+    width: 20%;
+    margin-right: 30px
+}
+
+.carpones{
+    float: right;
+    width: 25%;
+    margin-left: 20px;
+}
+
+.negrita{
+    font-weight: bold;
+}
